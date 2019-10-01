@@ -1,0 +1,2 @@
+# notes
+Personal tech notes
