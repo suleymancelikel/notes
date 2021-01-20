@@ -131,8 +131,3 @@ git rev-list --all --count
 
 # number of commits of each author
 
-
-
-git clone --bare .com/abc.git
-
-
